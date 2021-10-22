@@ -1,5 +1,6 @@
 # sus.python-for-biology
 南科大python作业的分析布局
+
 （1）第四周的作业第一部分
      读取sgRNA文件，打印name 和sequence 
      输出格式要求
